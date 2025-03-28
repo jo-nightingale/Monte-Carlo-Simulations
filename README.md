@@ -12,6 +12,6 @@ This is my exploratory program for the random walk model. I created it for my Co
 
 ## Here's a picture of my result:
 
-![Random Walk of particle that falls into a trap.](https://github.com/user-attachments/assets/d6f17e80-314e-4155-ba49-c8ee388bf6f1)
+![Random Walk of particle that falls into a trap.](https://github.com/user-attachments/assets/d6f17e80-314e-4155-ba49-c8ee388bf6f1 "Random walk of a particle eventually falling into a trap - Two ddimensions")
 
 
