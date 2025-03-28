@@ -2,7 +2,7 @@
 
 This is my exploratory program for the random walk model. I created it for my Computational Solid State physics class.
 
-[In case you are not familiar with the random walk:] (https://en.wikipedia.org/wiki/Random_walk)
+[In case you are not familiar with the random walk:](https://en.wikipedia.org/wiki/Random_walk)
 
 *What the code does:*
 1. Plot the random walk of a particle for N steps
