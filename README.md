@@ -6,7 +6,7 @@ This is my exploratory program for the random walk model. I created it for my Co
 
 *What the code does:*
 1. Plot the random walk of a particle for N steps
-2. Find the men square distance from the beginning after N steps
+2. Find the mean square distance from the beginning after N steps
 3. Insert traps in the grid
 4. A bunch of other stuff
 
