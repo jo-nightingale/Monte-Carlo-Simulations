@@ -1,4 +1,4 @@
-# Monte-Carlo-Simulations
+# Random Walk in 1, 2 and 3 Dimensions
 
 This is my exploratory program for the random walk model. I created it for my Computational Solid State physics class.
 
